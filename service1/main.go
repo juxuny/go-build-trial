@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	tools "../tools"
+	"app/tools"
 )
 
 func main() {
