@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	"go-build-trial/tools"
+	"github.com/juxuny/go-build-trial/tools"
 )
 
 func main() {
