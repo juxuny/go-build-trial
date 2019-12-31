@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"app/tools"
+	"go-build-trial/tools"
 )
 
 func main() {
